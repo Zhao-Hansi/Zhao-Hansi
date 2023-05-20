@@ -12,7 +12,7 @@
    <img src="https://komarev.com/ghpvc/?username=iCharlesZ">
 </a>
 
-![GitHub followers](https://img.shields.io/github/followers/anmol098?label=Follow&style=social)
+![GitHub followers](https://img.shields.io/github/followers/Zhan-Hansi?label=Follow&style=social)
 
 ---
 <!--START_SECTION:waka-->
