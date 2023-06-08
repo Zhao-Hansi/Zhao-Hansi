@@ -3,7 +3,7 @@
 </a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 
-![Zhan-Hansi's github stats](https://github-readme-stats.vercel.app/api?username=Zhan-Hansi=contribs,prs&count_private=true&show_icons=true)
+![Zhan-Hansi's github stats](https://github-readme-stats.vercel.app/api?username=Zhan-Hansi&hide=contribs,prs&count_private=true&show_icons=true)
 
 <a href="https://github.com/Zhan-Hansi">
   <img src="https://img.shields.io/github/followers/Zhan-Hansi">
