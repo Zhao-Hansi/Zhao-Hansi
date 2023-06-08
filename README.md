@@ -3,13 +3,13 @@
 </a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 
-![iCharles's github stats](https://github-readme-stats.vercel.app/api?username=iCharlesZ&hide=contribs,prs&count_private=true&show_icons=true)
+![iCharles's github stats](https://github-readme-stats.vercel.app/api?username=Zhan-Hansi=contribs,prs&count_private=true&show_icons=true)
 
-<a href="https://github.com/iCharlesZ">
-  <img src="https://img.shields.io/github/followers/iCharlesZ">
+<a href="https://github.com/Zhan-Hansi">
+  <img src="https://img.shields.io/github/followers/Zhan-Hansi">
 </a>
-<a href="https://github.com/iCharlesZ">
-   <img src="https://komarev.com/ghpvc/?username=iCharlesZ">
+<a href="https://github.com/Zhan-Hansi">
+   <img src="https://komarev.com/ghpvc/?username=Zhan-Hansi">
 </a>
 
 ![GitHub followers](https://img.shields.io/github/followers/Zhan-Hansi?label=Follow&style=social)
